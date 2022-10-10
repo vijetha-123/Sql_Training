@@ -68,3 +68,4 @@ select worker_id,first_name, last_name , salary,joining_date from Worker where f
 --Q-10. Write an SQL query to print details of the Workers whose FIRST_NAME contains ‘a’.
 select worker_id,first_name, last_name , salary,joining_date from Worker where first_name like '%a%'
 
+
